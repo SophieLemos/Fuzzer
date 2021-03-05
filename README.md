@@ -1,3 +1,3 @@
 # Fuzzer
 
-Mutation based fuzzer written for fun.
+Mutation based fuzzer written for fun. Use AFL.
